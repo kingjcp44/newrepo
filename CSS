@@ -1,0 +1,39 @@
+h1 {
+	width:50%
+	margin: 0 25%;
+	text-align: center:
+}
+
+nav{
+	postion: absolute;
+	right: 10px;
+}
+.greenf {
+   color:green;
+  }
+  #big{
+	  font-size:60px;
+  }
+  
+  /*starting nv css*/
+  nav ul{
+	list-style: one;
+	margin: 0;
+	padding: 0;
+  }
+	  
+	nav ul li {
+	  float: left;
+	}  
+	nav ul li a: hover{
+		color:black;
+	}
+	nav ul li a:hover {
+		background-color: yellow;
+	}
+	
+  nav ul li a {
+	 display: block;
+	 padding:0 5px
+	 text-decoration: none; 
+  }
