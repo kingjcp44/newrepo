@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href"style_folder/stle.css">
+  <title>My first webpage</title>
+</head>
+<body>
+<h1>This is my first webpage</h1>
+<p>Hello internet, my name is that boi!</p>
+
+<nav>
+  <ul>
+    <li><a href="Home">Home</a></li>
+	<li><a href="Page 2">Page 2</a></li>
+	<li><a href="https://www.nike.com">Nike</a></li>
+	</ul>
+</nav>
+<img src="la.jpg"> 
+</body>
+</html>
